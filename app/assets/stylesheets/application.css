@@ -14,4 +14,7 @@
 
 center {
     font-size: 16px;
+    color: #999;
 }
+
+html,body,center{background-color:#232323;}
